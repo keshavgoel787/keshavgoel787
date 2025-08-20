@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Keshav Git Stats](https://github-readme-stats.vercel.app/api?username=keshavgoel787)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **keshavgoel787/keshavgoel787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
