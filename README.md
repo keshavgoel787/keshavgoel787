@@ -1,6 +1,11 @@
-## Hi there 👋
-[![Keshav Git Stats](https://github-readme-stats.vercel.app/api?username=keshavgoel787&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align ="center">
+  Hey there 👋
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card">
+      <img src="https://github-readme-stats.vercel.app/api?username=keshavgoel787&hide_border=true&show_icons=true&theme=gruvbox_light" alt="keshavgoel787's github stats">
+  </a>
+</p>
 <!--
 **keshavgoel787/keshavgoel787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
