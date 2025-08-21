@@ -11,8 +11,8 @@ About Me:
 - Junior studying Data Science and Math at Northeastern University
 - Current Software & Data Co-op at J&J 
 - Current Data Researcher at NEU
-- Interests Include: Exploring Tech, Losing at League, Astronomy, Any Show/Movie, Eating, and probably more 
 - Favorite Teams Emoji: <img src="https://em-content.zobj.net/source/microsoft-teams/337/slightly-smiling-face_1f642.png" width="15">
+- Interests Include: Tech with Impact, Sleeping, Losing at League, Astronomy, Any Show/Movie, Eating, and Probably More...
 
 <p align="center">
   <strong><a href="https://www.linkedin.com/in/goel-keshav/">LinkedIn</a></strong> |
