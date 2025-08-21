@@ -1,3 +1,5 @@
+<img src="https://media1.tenor.com/m/d6B57lam6CoAAAAd/hollow-knight-mushroom.gif" width="80" height="80" />
+
 ---
 
 <p align="center">
