@@ -1,4 +1,13 @@
-<img src="https://media1.tenor.com/m/d6B57lam6CoAAAAd/hollow-knight-mushroom.gif" width="80" height="80" />
+
+
+<h1 align="center">Hi, I'm Keshav!</h1>
+
+<p align = "center">
+  <a href = "https://media1.tenor.com/m/d6B57lam6CoAAAAd/hollow-knight-mushroom.gif"><img  width=50%  align = center src="https://media1.tenor.com/m/d6B57lam6CoAAAAd/hollow-knight-mushroom.gif"/></a>
+</p>
+
+
+
 
 ---
 
