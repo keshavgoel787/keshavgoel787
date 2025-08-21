@@ -17,7 +17,8 @@ About Me:
 
 <p align="center">
   <strong><a href="https://www.linkedin.com/in/goel-keshav/">LinkedIn</a></strong> |
-  <strong><a href="https://keshavgoel.xyz">Website</a></strong> 
+  <strong><a href="https://keshavgoel.xyz">Website</a></strong> |
+  <strong><a href="https://keshavgoel.xyz/resume">Resume</strong>
 </p>
 
 
