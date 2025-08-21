@@ -3,8 +3,15 @@
 <h1 align="center">Hi, I'm Keshav!</h1>
 
 <p align = "center">
-  <a href = "https://media1.tenor.com/m/d6B57lam6CoAAAAd/hollow-knight-mushroom.gif"><img  width=50%  align = center src="https://media1.tenor.com/m/d6B57lam6CoAAAAd/hollow-knight-mushroom.gif"/></a>
+  <a href = "https://media1.tenor.com/m/d6B57lam6CoAAAAd/hollow-knight-mushroom.gif"><img  width=25%  align = center src="https://media1.tenor.com/m/d6B57lam6CoAAAAd/hollow-knight-mushroom.gif"/></a>
 </p>
+
+---
+About Me:
+- Junior studying Data Science and Math at Northeastern University
+- Current Software & Data Co-op at J&J 
+- Current Data Researcher at NEU
+- Favorite Teams Emoji: <img src="https://em-content.zobj.net/source/microsoft-teams/337/slightly-smiling-face_1f642.png" width="15">
 
 
 
