@@ -9,8 +9,9 @@
 ---
 About Me:
 - Junior studying Data Science and Math at Northeastern University
-- Prev Software Co-op at J&J 
 - Current Data Researcher at NEU
+- Current SWE Intern at ProcureMate
+- Prev Software Co-op at J&J 
 - Bhangra Dancer at Boston University
 - Favorite Teams Emoji: <img src="https://em-content.zobj.net/source/microsoft-teams/337/slightly-smiling-face_1f642.png" width="15">
 - Interests Include: Tech with Impact, Sleeping, Astronomy, Any Show/Movie/Game, Eating, and More...
