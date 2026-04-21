@@ -8,7 +8,8 @@
 
 ---
 About Me:
-- Junior studying Data Science and Math at Northeastern University
+- 3rd year studying Data Science and Math at Northeastern University
+- Incoming at Amazon & DraftKings
 - Current Data Researcher at NEU
 - Current SWE Intern at ProcureMate
 - Prev Software Co-op at J&J 
